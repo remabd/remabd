@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rémi A
+- 👋 Hi, I’m Rémi Abdallah
 - 👀 I’m interested in modding games and developpement in general
 - 🌱 I’m currently learning Typescript and Java
 - 📫 How to reach me : remiabdallah3@gmail.com
